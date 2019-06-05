@@ -1,4 +1,0 @@
----
-title: Paneles
-filtro: paneles
----

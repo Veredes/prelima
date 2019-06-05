@@ -1,6 +1,6 @@
 ---
 title: DP1
-image: /v1544699291/dp1.gif
+image: /v1559759551/Vista_DP.jpg
 filtro: vigas_doble_pendiente
 productos: ["vigas_doble_pendiente"]
 markup: mmark

@@ -1,4 +1,0 @@
----
-title: Muros
-filtro: muros
----

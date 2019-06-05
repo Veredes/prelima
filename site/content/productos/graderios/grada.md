@@ -1,6 +1,6 @@
 ---
 title: Grada
-image: /v1544699297/grada.gif
+image: /v1559759551/Vista_Grada.jpg
 filtro: graderios
 productos: ["Graderios"]
 markup: mmark
